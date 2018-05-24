@@ -1,7 +1,6 @@
-This is my first text file
-<<<<<<< HEAD
-sss
-=======
-changing for testing
-aaaaaaaaaaaaa
->>>>>>> master
+hi
+
+
+123
+4567
+678
